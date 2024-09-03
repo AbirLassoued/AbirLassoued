@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Abir LASSOUED, a data science student based in Tunisia. Great to connect with you!
+## Hi there! 👋 I’m Abir LASSOUED from Tunisia 🇹🇳. Great to connect with you!
 
 <!--
 **AbirLassoued/AbirLassoued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
