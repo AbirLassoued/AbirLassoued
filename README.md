@@ -11,7 +11,6 @@
 
 <h2 align="left">🖥️ Tech Skills:</h2>
 
-### Programming Languages
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python logo" />
@@ -25,43 +24,12 @@
   <a href="https://www.scala-lang.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Scala&logo=scala&label=&color=DC322F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scala logo" />
   </a>
-</div>
-
-### Machine Learning
-<div align="left">
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scikit-learn logo" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TensorFlow logo" />
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=D00000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Keras logo" />
-  </a>
-</div>
-
-### Deep Learning
-<div align="left">
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TensorFlow logo" />
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=D00000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Keras logo" />
-  </a>
-</div>
-
-### Big Data
-<div align="left">
   <a href="https://hadoop.apache.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Hadoop&logo=apachehadoop&label=&color=66CCFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hadoop logo" />
   </a>
   <a href="https://spark.apache.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spark&logo=apachespark&label=&color=E25A1C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Spark logo" />
   </a>
-</div>
-
-### Databases
-<div align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MySQL logo" />
   </a>
@@ -71,10 +39,6 @@
   <a href="https://cassandra.apache.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Cassandra&logo=apachecassandra&label=&color=1287BD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Cassandra logo" />
   </a>
-</div>
-
-### Tools & Environments
-<div align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Docker logo" />
   </a>
@@ -84,10 +48,6 @@
   <a href="https://colab.research.google.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Google%20Colab&logo=googlecolab&label=&color=F9AB00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Colab logo" />
   </a>
-</div>
-
-### Visualization
-<div align="left">
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Matplotlib logo" />
   </a>
