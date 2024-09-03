@@ -95,11 +95,12 @@ I am a passionate Data Science student with a strong foundation in various techn
 </p>
 
 ---
-<h2 align="center">🌟 What I’m Working On</h2>
+<h2 align="center">🌟 What I'm Passionate About</h2>
 
 <p align="center">
-  Currently, I'm diving deep into Natural Language Processing (NLP) for my upcoming project on sentiment analysis. 🚀 Stay tuned for more exciting updates!
+  I’m actively exploring innovative projects and technologies. Whether it's diving into data analysis or uncovering insights, I'm always excited to push the boundaries and learn more. 🚀 Stay tuned for updates on my latest ventures and discoveries!
 </p>
+
 
 ---
 
