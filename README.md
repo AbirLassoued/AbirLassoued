@@ -60,6 +60,15 @@
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Tableau&logo=tableau&label=&color=E97627&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tableau logo" />
   </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scikit-learn logo" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TensorFlow logo" />
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=D00000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Keras logo" />
+  </a>
 </div>
 ---
 
