@@ -12,21 +12,30 @@
 <h2 align="left">🖥️ Tech Skills:</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python logo" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=R&logo=r&label=&color=276DC3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="R logo" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Docker logo" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Java logo" />
+  </a>
+  <a href="https://www.scala-lang.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Scala&logo=scala&label=&color=DC322F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scala logo" />
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hadoop&logo=apachehadoop&label=&color=66CCFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hadoop logo" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MySQL logo" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MongoDB logo" />
+  </a>
 </div>
 
 ---
