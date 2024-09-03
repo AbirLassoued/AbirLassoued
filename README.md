@@ -130,6 +130,4 @@ I am a passionate Data Science student with a strong foundation in various techn
 </div>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbirLassoued/AbirLassoued/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-contribution-grid-snake.gif)
