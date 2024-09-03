@@ -49,7 +49,4 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/AbirLassoued/AbirLassoued/output/snake.svg" alt="Snake animation" />
-
 ---
