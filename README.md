@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋! My name is Abir LASSOUED</h2>
 <h3 align="center">I'm a Data Science Student from Tunisia.</h3>
 
-<p align="center" style="font-size: 24px; color: #E80675;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily" alt="Introduction" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily&color=E80675" alt="Introduction" />
 </p>
 
 ---
