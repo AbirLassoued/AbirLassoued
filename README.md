@@ -80,6 +80,7 @@ I am a passionate Data Science student with a strong foundation in various techn
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbirLassoued&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbirLassoued&repo=DataScienceProject&theme=dark" height="150" alt="recent repo graph" />
 </div>
+<img src="https://streak-stats.demolab.com?user=AbirLassoued&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 
 <h3 align="center">📈 Notable Projects</h3>
 
