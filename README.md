@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋! My name is Abir LASSOUED</h2>
 <h3 align="center">I'm a Data Science Student from Tunisia.</h3>
 
-<p align="center">
+<p align="center" style="font-size: 24px; color: #E80675;">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily" alt="Introduction" />
 </p>
 
 ---
 
-<h2 align="left">🖥️ Tech Skills:</h2>
+<h2 align="center">🚀 My Tech Skills</h2>
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -71,11 +71,32 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats & Achievements</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbirLassoued&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbirLassoued&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<h3 align="center">📈 Notable Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/AbirLassoued/PRODIGY_DS_01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Customer%20Personality%20Analysis&logo=github&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" alt="Customer Personality Analysis" />
+  </a>
+  <a href="https://github.com/AbirLassoued/PRODIGY_DS_03" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Decision%20Tree%20Classifier&logo=github&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" alt="Decision Tree Classifier" />
+  </a>
+  <a href="https://github.com/AbirLassoued/PRODIGY_DS_04" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Sentiment%20Analysis&logo=github&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" alt="Sentiment Analysis" />
+  </a>
+</p>
+
+---
+<h2 align="center">🌟 What I’m Working On</h2>
+
+<p align="center">
+  Currently, I'm diving deep into Natural Language Processing (NLP) for my upcoming project on sentiment analysis. 🚀 Stay tuned for more exciting updates!
+</p>
 
 ---
 
