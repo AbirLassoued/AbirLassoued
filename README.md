@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#E80675;">Welcome! I’m Abir LASSOUED, a Data Science Master's Student from Tunisia</h2>
+## Hello 👋 I’m Abir LASSOUED, a Data Science Master's Student from Tunisia, excited to share my journey with you!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily&color=E80675" alt="Introduction" />
