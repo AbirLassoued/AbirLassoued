@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily&color=E80675" alt="Introduction" />
 </p>
 
-![Exciting GIF](https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" />
+</p>
 
 ---
 ### 🚀 About Me
