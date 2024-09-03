@@ -36,8 +36,19 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MongoDB logo" />
   </a>
+  <a href="https://www.git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Git logo" />
+  </a>
+  <a href="https://www.aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonaws&label=&color=232F3E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="AWS logo" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=SQL%20Server&logo=microsoftsqlserver&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="SQL Server logo" />
+  </a>
+  <a href="https://www.apache-spark.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spark&logo=apachespark&label=&color=E25A1C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Spark logo" />
+  </a>
 </div>
-
 ---
 
 <h2 align="left">📫 Contact Me</h2>
