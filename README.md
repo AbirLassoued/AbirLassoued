@@ -1,4 +1,4 @@
-## Hey there! 👋 I’m Abir LASSOUED from Tunisia. Great to connect with you!
+<h2 align="left" >Hey there! 👋 I’m Abir LASSOUED from Tunisia. Great to connect with you!</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily&color=E80675" alt="Introduction" />
