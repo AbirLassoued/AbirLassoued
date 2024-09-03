@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/your-chosen-gif/giphy.gif" alt="girl programming gif" />
+<img align="right" height="150" src="https://tenor.com/your-chosen-gif.gif" alt="girl programming gif" />
 
 
 ###
