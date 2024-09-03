@@ -124,7 +124,7 @@ I am a passionate Data Science student with a strong foundation in various techn
   <a href="https://www.instagram.com/abir.lassoued_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
-  <a href="https://twitter.com/YourTwitterUsername" target="_blank">
+  <a href="https://x.com/lassoued_abir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
 </div>
