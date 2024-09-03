@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily&color=E80675" alt="Introduction" />
 </p>
 
+![Exciting GIF](https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif)
+
 ---
 ### 🚀 About Me
 I am a passionate Data Science student with a strong foundation in various technologies and tools. Currently, I am pursuing my Master’s in Data Science and gaining hands-on experience through internships and projects. My expertise spans across programming, machine learning, deep learning, and big data technologies.
