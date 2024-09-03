@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/your-chosen-gif/giphy.gif" alt="coding gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/your-chosen-gif/giphy.gif" alt="girl programming gif" />
+
 
 ###
 
