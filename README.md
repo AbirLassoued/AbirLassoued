@@ -106,7 +106,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 <h2 align="left">📫 Contact Me</h2>
 <p align="center">🚀 I'm open to exciting collaborations and new opportunities! If you're interested in working together or just want to connect, feel free to reach out through any of the platforms below:</p>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/lassoued-abir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
