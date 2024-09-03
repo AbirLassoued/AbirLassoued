@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="funny gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/your-chosen-gif/giphy.gif" alt="coding gif" />
 
 ###
 
