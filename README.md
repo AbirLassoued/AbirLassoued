@@ -94,6 +94,24 @@ I am a passionate Data Science student with a strong foundation in various techn
   </a>
 </div>
 
+---
+
+<div align="center">
+  <h2>🏆 My GitHub Trophies 🏆</h2>
+  <a href="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" target="_blank">
+    <img class="trophy-animation" src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<style>
+  .trophy-animation {
+    transition: transform 0.5s ease-in-out;
+  }
+
+  .trophy-animation:hover {
+    transform: scale(1.1) rotate(10deg); /* Zooms in and rotates slightly */
+  }
+</style>
 
   
 ---
