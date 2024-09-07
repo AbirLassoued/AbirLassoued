@@ -142,3 +142,9 @@ I am a passionate Data Science student with a strong foundation in various techn
 
 ---
 ![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-contribution-grid-snake.svg)
+
+--- 
+*<h3 align="center">Achievement Unlocked! 🎉</h3>
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" alt="Party Parrot" width="50"/>
+</p>
