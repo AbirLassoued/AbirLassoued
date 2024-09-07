@@ -144,7 +144,16 @@ I am a passionate Data Science student with a strong foundation in various techn
 ![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-contribution-grid-snake.svg)
 
 --- 
-*<h3 align="center">Achievement Unlocked! 🎉</h3>
+<h3 align="center">Party Parrots 🎉</h3>
+
 <p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" alt="Party Parrot" width="50"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="40" height="40"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="40" height="40"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sassyparrot.gif" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/shipitparrot.gif" width="40" height="40"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="40" height="40"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="40" height="40"/>
 </p>
