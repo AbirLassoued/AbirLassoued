@@ -1,4 +1,5 @@
-<h2 align="center" >Hey there! 👋 I’m Abir from Tunisia. Great to connect with you!</h2>
+<h2 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="vertical-align: middle;"> I’m Abir from Tunisia. Great to connect with you!</h2>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily&color=E80675" alt="Introduction" />
