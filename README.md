@@ -142,18 +142,19 @@ I am a passionate Data Science student with a strong foundation in various techn
 
 ---
 
+<!-- Quote Section -->
 <h2 align="center">🌟 Favorite Quote 🌟</h2>
-
 <p align="center">
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/thinking-face_1f914.gif" width="50"/>
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/thinking-face_1f914.gif" width="50" />
 </p>
-
-<blockquote align="center" style="font-style: italic; font-size: 1.2em; color: #555;">
-  "The best way to predict the future is to create it." – Peter Drucker
+<blockquote style="background-color: #f9f9f9; border-left: 10px solid #ddd; padding: 15px; border-radius: 5px; font-style: italic; font-size: 1.2em; color: #555; text-align: center; position: relative; margin: 20px auto; width: 80%;">
+  "The best way to predict the future is to create it."
+  <footer style="font-style: normal; font-size: 1em; color: #333; position: absolute; bottom: 10px; right: 15px;">
+    – Peter Drucker
+  </footer>
 </blockquote>
-
 <p align="center">
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/star-struck_1f929.gif" width="50"/>
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/star-struck_1f929.gif" width="50" />
 </p>
 
 
