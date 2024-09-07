@@ -84,6 +84,13 @@ I am a passionate Data Science student with a strong foundation in various techn
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbirLassoued&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=AbirLassoued&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak stats" />
 </div>
+
+---
+
+<h2 align="center">🏆 Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&theme=darkhub&column=7" alt="GitHub Trophies" />
+</p>
   
 ---
   
