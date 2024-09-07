@@ -96,30 +96,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 
 ---
 
-<div align="center">
-  <h2> <span class="trophy-icon">🏆</span> My GitHub Trophies 🏆</h2>
-  <a href="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" target="_blank">
-    <img class="trophy-animation" src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" alt="GitHub Trophies" />
-  </a>
-  <style>
-  .trophy-icon {
-    display: inline-block;
-    animation: bounce 1.5s infinite; /* Applies bounce animation */
-  }
 
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0); /* Start and end at the original position */
-    }
-    50% {
-      transform: translateY(-10px); /* Moves up by 10px */
-    }
-  }
-</style>
-</div>
-  
----
-  
 <h2 align="center">📈 Notable Projects</h2>
 
 <p align="center">
