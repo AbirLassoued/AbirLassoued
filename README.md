@@ -101,18 +101,22 @@ I am a passionate Data Science student with a strong foundation in various techn
   <a href="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" target="_blank">
     <img class="trophy-animation" src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" alt="GitHub Trophies" />
   </a>
-</div>
-
-<style>
-  .trophy-animation {
-    transition: transform 0.5s ease-in-out;
+  <style>
+  .trophy-icon {
+    display: inline-block;
+    animation: bounce 1.5s infinite; /* Applies bounce animation */
   }
 
-  .trophy-animation:hover {
-    transform: scale(1.1) rotate(10deg); /* Zooms in and rotates slightly */
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0); /* Start and end at the original position */
+    }
+    50% {
+      transform: translateY(-10px); /* Moves up by 10px */
+    }
   }
 </style>
-
+</div>
   
 ---
   
