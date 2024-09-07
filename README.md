@@ -141,4 +141,21 @@ I am a passionate Data Science student with a strong foundation in various techn
 </div>
 
 ---
+
+<h2 align="center">🌟 Favorite Quote 🌟</h2>
+
+<p align="center">
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/thinking-face_1f914.gif" width="50"/>
+</p>
+
+<blockquote align="center" style="font-style: italic; font-size: 1.2em; color: #555;">
+  "The best way to predict the future is to create it." – Peter Drucker
+</blockquote>
+
+<p align="center">
+  <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/star-struck_1f929.gif" width="50"/>
+</p>
+
+
+---
 ![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-contribution-grid-snake.svg)
