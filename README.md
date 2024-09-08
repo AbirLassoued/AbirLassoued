@@ -15,7 +15,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 
 ---
 
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/lottie.gif" width="30px" style="vertical-align: middle;"> My Tech Skills</h2>
+<h2 align="center">🚀 My Tech Skills</h2>
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
