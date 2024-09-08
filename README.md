@@ -9,7 +9,8 @@
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&logo=github)
+
 
 
 ---
