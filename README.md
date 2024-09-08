@@ -13,7 +13,7 @@
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" width="40" height="40" alt="Party Popper"> About Me
+### 👩‍💻 About Me
 <br>
 <div align="left">
   <p>I am a passionate Data Science student with a strong foundation in various technologies and tools. Currently, I am pursuing my Master’s in Data Science and gaining hands-on experience through internships and projects. My expertise spans across programming, machine learning, deep learning, and big data technologies.
@@ -22,7 +22,7 @@
 
 ---
 
-### My Tech Skills
+### 💻 My Tech Skills
 <br>
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -122,7 +122,7 @@
 
 ---
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px" style="vertical-align: middle;" alt="Star"> What I'm Passionate About
+### >🌟 What I'm Passionate About
 <br>
 <p align="left">
   I’m actively exploring innovative projects and technologies. Whether it's diving into data analysis or uncovering insights, I'm always excited to push the boundaries and learn more. 🚀 Stay tuned for updates on my latest ventures and discoveries!
