@@ -117,7 +117,9 @@ I am a passionate Data Science student with a strong foundation in various techn
 </p>
 
 ---
-<h2 align="center">🌟 What I'm Passionate About</h2>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="40" height="40" alt="Star"> What I'm Passionate About
+</h2>
 
 <p align="center">
   I’m actively exploring innovative projects and technologies. Whether it's diving into data analysis or uncovering insights, I'm always excited to push the boundaries and learn more. 🚀 Stay tuned for updates on my latest ventures and discoveries!
