@@ -151,5 +151,15 @@
 </div>
 
 ---
+## Inspiration en Data Science
+
+![Data Science Quote](https://github.com/AbirLassoued/AbirLassoued/raw/main/assets/data-science-quote.png)
+
+> "Data science is the future, and the future is now. Embrace the data, embrace the future."
+
+---
+
+*Cette citation nous rappelle l'importance et le potentiel de la science des données dans notre monde moderne.*
+
 ![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-contribution-grid-snake.svg)
 
