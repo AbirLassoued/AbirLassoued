@@ -151,4 +151,5 @@
 </div>
 
 ---
-![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/main/output/github-contribution-grid-snake.svg)
+
