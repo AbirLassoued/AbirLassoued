@@ -122,7 +122,7 @@
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px" style="vertical-align: middle;" alt="Star"> What I'm Passionate About
 <br>
-<p align="center">
+<p align="left">
   I’m actively exploring innovative projects and technologies. Whether it's diving into data analysis or uncovering insights, I'm always excited to push the boundaries and learn more. 🚀 Stay tuned for updates on my latest ventures and discoveries!
 </p>
 
@@ -131,7 +131,7 @@
 
 ### 📫 Contact Me
 <br>
-<p align="center">🚀 I'm open to exciting collaborations and new opportunities! If you're interested in working together or just want to connect, feel free to reach out through any of the platforms below:</p>
+<p align="left">🚀 I'm open to exciting collaborations and new opportunities! If you're interested in working together or just want to connect, feel free to reach out through any of the platforms below:</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lassoued-abir" target="_blank">
