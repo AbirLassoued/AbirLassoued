@@ -118,7 +118,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 
 ---
 <h2 align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="40" height="40" alt="Star"> What I'm Passionate About
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px" style="vertical-align: middle;" alt="Star"> What I'm Passionate About
 </h2>
 
 <p align="center">
