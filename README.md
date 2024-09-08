@@ -80,6 +80,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 ---
 
 ### 📊 GitHub Stats & Achievements
+<br>
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=AbirLassoued&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbirLassoued&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top languages" />
@@ -88,6 +89,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 
 ---
 ### 🏆 GitHub Trophies
+<br>
 <div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" alt="GitHub Trophies" />
@@ -98,7 +100,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 
 
 ### 📈 Notable Projects
-
+<br>
 <p align="center">
   <a href="https://github.com/AbirLassoued/PRODIGY_DS_01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Customer%20Personality%20Analysis&logo=github&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" alt="Customer Personality Analysis" />
@@ -114,7 +116,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 ---
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px" style="vertical-align: middle;" alt="Star"> What I'm Passionate About
-
+<br>
 <p align="center">
   I’m actively exploring innovative projects and technologies. Whether it's diving into data analysis or uncovering insights, I'm always excited to push the boundaries and learn more. 🚀 Stay tuned for updates on my latest ventures and discoveries!
 </p>
@@ -123,6 +125,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 ---
 
 ### 📫 Contact Me
+<br>
 <p align="center">🚀 I'm open to exciting collaborations and new opportunities! If you're interested in working together or just want to connect, feel free to reach out through any of the platforms below:</p>
 
 <div align="center">
