@@ -12,7 +12,11 @@
 ---
 
 ### About Me
-I am a passionate Data Science student with a strong foundation in various technologies and tools. Currently, I am pursuing my Master’s in Data Science and gaining hands-on experience through internships and projects. My expertise spans across programming, machine learning, deep learning, and big data technologies.
+<br>
+<div align="left">
+  <p>I am a passionate Data Science student with a strong foundation in various technologies and tools. Currently, I am pursuing my Master’s in Data Science and gaining hands-on experience through internships and projects. My expertise spans across programming, machine learning, deep learning, and big data technologies.
+</p>
+</div>
 
 ---
 
