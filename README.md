@@ -15,8 +15,8 @@ I am a passionate Data Science student with a strong foundation in various techn
 
 ---
 
-  ### My Tech Skills
-<br><div align="left">
+### My Tech Skills
+<div align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python logo" />
   </a>
@@ -79,7 +79,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 ---
 
 ### 📊 GitHub Stats & Achievements
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=AbirLassoued&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbirLassoued&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=AbirLassoued&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak stats" />
