@@ -16,7 +16,7 @@ I am a passionate Data Science student with a strong foundation in various techn
 ---
 
 ### My Tech Skills
-<div align="left">
+<div align="left" style="margin-top: 50px;">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python logo" />
   </a>
