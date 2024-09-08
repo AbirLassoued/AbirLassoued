@@ -11,7 +11,7 @@
 
 ---
 
-![About Me](https://img.shields.io/badge/About_Me-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-informational?style=flat&color=blue)
+### About Me
 I am a passionate Data Science student with a strong foundation in various technologies and tools. Currently, I am pursuing my Master’s in Data Science and gaining hands-on experience through internships and projects. My expertise spans across programming, machine learning, deep learning, and big data technologies.
 
 ---
