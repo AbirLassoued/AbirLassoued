@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" />
+  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" width="500" height="auto" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge)
