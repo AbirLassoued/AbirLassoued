@@ -9,9 +9,7 @@
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" />
 </p>
 
-![Profile Views](https://img.shields.io/badge/Profile_Views-1234-ff00ff?style=for-the-badge&logo=github)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=ff00ff&style=for-the-badge)
 
 ---
 
