@@ -122,7 +122,7 @@
 
 ---
 
-### >🌟 What I'm Passionate About
+### 🌟 What I'm Passionate About
 <br>
 <p align="left">
   I’m actively exploring innovative projects and technologies. Whether it's diving into data analysis or uncovering insights, I'm always excited to push the boundaries and learn more. 🚀 Stay tuned for updates on my latest ventures and discoveries!
