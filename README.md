@@ -9,6 +9,9 @@
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" />
 </p>
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=AbirLassoued.visitor-badge)
+
+
 ---
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" width="40" height="40" alt="Party Popper"> About Me
