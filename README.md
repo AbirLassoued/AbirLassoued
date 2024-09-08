@@ -9,7 +9,8 @@
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" />
 </p>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=AbirLassoued.visitor-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=blue)
+
 
 
 ---
