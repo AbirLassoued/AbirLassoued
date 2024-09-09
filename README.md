@@ -154,9 +154,9 @@
 <br>
 
 <!-- Bouton "Back to Top" -->
-<p align="center">
+<p align="left">
   <a href="#top">
-    <img src="https://media.giphy.com/media/3o6Zt5GmYV68JSZnK0/giphy.gif" alt="Scroll Up" width="150"/>
+    <img src="https://img.shields.io/static/v1?message=Scroll%20Up&color=%23E80675&style=for-the-badge&logo=" alt="Scroll Up"/>
   </a>
 </p>
 
