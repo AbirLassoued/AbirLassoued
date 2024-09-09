@@ -154,7 +154,7 @@
 <br>
 
 <!-- Bouton "Back to Top" -->
-<div align="left">
+<div align="right">
   <a href="#top" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Scroll%20Up-%23E80675?style=for-the-badge&logo=" alt="Scroll Up"/>
   </a>
