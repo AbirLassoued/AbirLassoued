@@ -155,7 +155,7 @@
 
 <!-- Bouton "Back to Top" -->
 <div align="center" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
-  <a href="#top" style="text-decoration: none; background-color: #E80675; color: white; padding: 12px 25px; border-radius: 8px; font-size: 18px; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
+  <a href="#top" style="text-decoration: none; background-color: #E80675; color: white; padding: 12px 25px; border-radius: 8px; font-size: 18px; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); transition: background-color 0.3s ease;">
     Back to Top
   </a>
 </div>
