@@ -13,7 +13,7 @@
 <p align="center">
   <!-- Carte citation dynamique avec couleur et taille personnalisée -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800&animation=true">
-</p>
+</p> <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge)
 
