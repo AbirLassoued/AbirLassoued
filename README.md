@@ -9,6 +9,12 @@
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" width="500" height="auto" />
 </p>
 
+<!-- Add the dynamic quote card here -->
+<p align="center">
+  <!-- Carte citation dynamique avec couleur et taille personnalisée -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800&animation=true">
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge)
 
 ---
@@ -149,18 +155,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800&animation=true">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&width=800&animation=true">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&width=800&animation=true">
-</p>
-
-
 
 ---
 
