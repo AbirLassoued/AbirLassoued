@@ -10,14 +10,7 @@
 </p>
 <br>
 
-<!-- Image alignée à droite -->
-<img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
-
-<!-- Compteur de visites centré -->
-<div align="left">
-   <img src="https://visitcount.itsvg.in/api?id=AbirLassoued&icon=0&color=4" alt="Visit Count">
-</div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge)
 
 ---
 
