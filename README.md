@@ -152,12 +152,11 @@
 
 ---
 
-<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
-<!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
+  <!-- Carte citation dynamique avec couleur et taille personnalisée -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800&animation=true">
+</p>
+
 
 ---
 
