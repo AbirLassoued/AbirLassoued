@@ -151,12 +151,12 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
 </div>
-
+<br>
 
 <!-- Bouton "Back to Top" -->
-<div align="center">
+<div align="left">
   <a href="#top" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-%23E80675?style=for-the-badge&logo=" alt="Back to Top"/>
+    <img src="https://img.shields.io/badge/Scroll%20Up-%23E80675?style=for-the-badge&logo=" alt="Scroll Up"/>
   </a>
 </div>
 
