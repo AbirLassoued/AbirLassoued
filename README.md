@@ -157,7 +157,7 @@
 </div>
 
 ---
-### ✨ Inspirational Quote
+
 <br>
 <p align="center">
   <!-- Carte citation dynamique avec couleur et taille personnalisée -->
