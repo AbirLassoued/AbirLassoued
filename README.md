@@ -15,7 +15,7 @@
 
 <!-- Compteur de visites centré -->
 <div align="left">
-   <img src="https://visitcount.itsvg.in/api?id=AbirLassoued&icon=0&color=E80675" alt="Visit Count">
+   <img src="https://visitcount.itsvg.in/api?id=AbirLassoued&icon=0&color=1" alt="Visit Count">
 </div>
 
 
