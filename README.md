@@ -98,6 +98,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbirLassoued&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbirLassoued&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top languages" />
   <img src="https://streak-stats.demolab.com?user=AbirLassoued&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/api?username=AbirLassoued&theme=radical" alt="Abir's Activity Graph" />
 </div>
 
 ---
