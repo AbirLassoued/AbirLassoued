@@ -156,6 +156,18 @@
   </a>
 </div>
 
+
+<!-- Bouton "Back to Top" -->
+<div align="center">
+  <a href="#top" style="text-decoration: none; background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold;">
+    Back to Top
+  </a>
+</div>
+
+<!-- Marqueur pour le bouton "Back to Top" -->
+<a id="top"></a>
+
+
 ---
 
 <br>
