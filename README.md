@@ -100,7 +100,7 @@
 <br>
 <div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=darkhub" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" />
   </a>
 </div>
 
