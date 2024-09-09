@@ -154,11 +154,11 @@
 <br>
 
 <!-- Bouton "Back to Top" -->
-<div align="right">
-  <a href="#top" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Scroll%20Up-%23E80675?style=for-the-badge&logo=" alt="Scroll Up"/>
+<p align="center">
+  <a href="#top">
+    <img src="https://media.giphy.com/media/3o6Zt5GmYV68JSZnK0/giphy.gif" alt="Scroll Up" width="150"/>
   </a>
-</div>
+</p>
 
 ---
 
