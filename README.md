@@ -153,9 +153,13 @@
 ---
 
 <p align="center">
-  <!-- Carte citation dynamique avec couleur et taille personnalisée -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800&animation=true">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&width=800&animation=true">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&width=800&animation=true">
 </p>
+
 
 
 ---
