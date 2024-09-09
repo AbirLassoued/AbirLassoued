@@ -1,5 +1,5 @@
 <a id="top" style="display: block; position: absolute; top: 0;"></a>
-<h2 style="margin: 0; padding: 0; text-align: center;">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="vertical-align: middle;"> I’m Abir from Tunisia. Great to connect with you!</h2>
+<h2 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="vertical-align: middle;"> I’m Abir from Tunisia. Great to connect with you!</h2>
 
 
 <p align="center">
