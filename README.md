@@ -158,5 +158,11 @@
 
 ---
 
+<p align="center">
+  <!-- Carte citation dynamique avec couleur et taille personnalisée -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800&animation=true">
+</p>
+
+
 ![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-contribution-grid-snake.svg)
 
