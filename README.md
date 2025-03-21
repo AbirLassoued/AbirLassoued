@@ -11,7 +11,7 @@
 </p>
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge) -->
 
 ---
 
