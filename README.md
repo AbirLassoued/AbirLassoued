@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master’s+Graduate+in+Data+Science;Passionate+about+innovation+and+continuous+learning&color=E80675" alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I+am+a+Master%27s+Graduate+in+Data+Science;Passionate+about+innovation+and+continuous+learning&color=E80675" alt="Introduction" />
 </p>
+
 
 <br>
 
@@ -43,7 +44,6 @@
   <!-- NLP & LLMs -->
   <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/static/v1?message=Hugging%20Face&logo=huggingface&label=&color=FFD21E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hugging Face" /></a>
   <a href="https://ollama.ai/" target="_blank"><img src="https://img.shields.io/static/v1?message=Ollama&logo=ollama&label=&color=3B82F6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Ollama" /></a>
-  <a href="https://cohere.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Cohere&logo=cohere&label=&color=7F56D9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Cohere" /></a>
   <a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/static/v1?message=Qdrant&logo=qdrant&label=&color=FF6B6B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Qdrant" /></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=LangChain&logo=chainlink&label=&color=00BFA6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LangChain" /></a>
   <a href="https://python.langchain.com/docs/use_cases/question_answering/" target="_blank"><img src="https://img.shields.io/static/v1?message=RAG&logo=opensearch&label=&color=009688&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="RAG" /></a>
