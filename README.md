@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I+am+a+Master%27s+Graduate+in+Data+Science;Passionate+about+innovation+and+continuous+learning&color=E80675" alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I+am+a+Master%27s+Graduate+in+Data+Science;Passionate+about+innovation+and+continuous+learning&color=E80675&center=true&vCenter=true&pause=2000&width=700&height=45&size=22" alt="Introduction" />
 </p>
+
 
 
 <br>
