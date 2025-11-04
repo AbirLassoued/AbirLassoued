@@ -7,9 +7,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" width="500" height="auto" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master’s+Graduate+in+Data+Science;Passionate+about+innovation+and+continuous+learning&color=E80675" alt="Introduction" /> </p>
 <br>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge) -->
