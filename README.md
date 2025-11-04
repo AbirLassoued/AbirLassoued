@@ -18,12 +18,12 @@ modifier ce portfolio de github pour etre update et pro et correcte "<a id="top"
 ### 👩‍💻 About Me
 <br>
 <div align="left">
-  <p>
-I’m a <strong>Master’s Graduate in Data Science</strong>strong> driven by curiosity and a passion for turning data into intelligent solutions.  
-My academic journey and hands-on projects have strengthened my ability to analyze, model, and interpret complex data with precision and creativity.  
-I’m now eager to apply my knowledge in AI and Data Science to real-world challenges, contribute to innovative teams, and continue learning in a fast-evolving field.
-
+ <p>
+  I’m a <strong>Master’s Graduate in Data Science</strong> driven by curiosity and a passion for turning data into intelligent solutions.<br>
+  My academic journey and hands-on projects have strengthened my ability to analyze, model, and interpret complex data with precision and creativity.<br>
+  I’m now eager to apply my knowledge in AI and Data Science to real-world challenges, contribute to innovative teams, and continue learning in a fast-evolving field.
 </p>
+
 </div>
 
 ---
