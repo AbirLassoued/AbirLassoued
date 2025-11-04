@@ -1,10 +1,11 @@
-modifier ce portfolio de github pour etre update et pro et correcte "<a id="top" style="display: block; position: absolute; top: 0;"></a>
+<a id="top" style="display: block; position: absolute; top: 0;"></a>
 <h2 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="vertical-align: middle;"> I’m Abir from Tunisia. Great to connect with you!</h2>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily&color=E80675" alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master’s+Graduate+in+Data+Science;Passionate+about+innovation+and+continuous+learning&color=E80675" alt="Introduction" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" width="500" height="auto" />
