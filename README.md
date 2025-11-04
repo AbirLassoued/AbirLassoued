@@ -19,7 +19,7 @@ modifier ce portfolio de github pour etre update et pro et correcte "<a id="top"
 <br>
 <div align="left">
   <p>
-I’m a **Master’s Graduate in Data Science** driven by curiosity and a passion for turning data into intelligent solutions.  
+I’m a <strong>Master’s Graduate in Data Science</strong>strong> driven by curiosity and a passion for turning data into intelligent solutions.  
 My academic journey and hands-on projects have strengthened my ability to analyze, model, and interpret complex data with precision and creativity.  
 I’m now eager to apply my knowledge in AI and Data Science to real-world challenges, contribute to innovative teams, and continue learning in a fast-evolving field.
 
