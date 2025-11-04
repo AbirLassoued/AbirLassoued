@@ -2,7 +2,10 @@
 <h2 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="vertical-align: middle;"> I’m Abir from Tunisia. Great to connect with you!</h2>
 
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master’s+Graduate+in+Data+Science;Passionate+about+innovation+and+continuous+learning&color=E80675" alt="Introduction" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master’s+Graduate+in+Data+Science;Passionate+about+innovation+and+continuous+learning&color=E80675" alt="Introduction" />
+</p>
+
 <br>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge) -->
