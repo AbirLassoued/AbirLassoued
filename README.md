@@ -1,109 +1,174 @@
-<a id="top" style="display: block; position: absolute; top: 0;"></a>
+modifier ce portfolio de github pour etre update et pro et correcte "<a id="top" style="display: block; position: absolute; top: 0;"></a>
+<h2 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="vertical-align: middle;"> I’m Abir from Tunisia. Great to connect with you!</h2>
 
-<h2 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="vertical-align: middle;"> I’m Abir from Tunisia 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;Data+Science+Master’s+Graduate+|+AI+%26+ML+Enthusiast;Exploring+RAG,+LLMs+%26+AI+Agents+with+Passion!&color=E80675" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;I'm+a+Master's+student+in+Data+Science;Exploring+data+insights+and+innovations+daily&color=E80675" alt="Introduction" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" width="500" />
+  <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="Exciting GIF" width="500" height="auto" />
 </p>
+<br>
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AbirLassoued&color=e80675&style=for-the-badge) -->
 
 ---
 
 ### 👩‍💻 About Me
-
-I’m a **Data Science Master’s Graduate** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and NLP**.  
-My interests include **LLMs, RAG architectures, AI Agents, and Multi-Agent Systems**.  
-I love transforming data into actionable insights and building intelligent solutions that make an impact.  
+<br>
+<div align="left">
+  <p>I am a passionate Data Science student with a strong foundation in various technologies and tools. Currently, I am pursuing my Master’s in Data Science and gaining hands-on experience through internships and projects. My expertise spans across programming, machine learning, deep learning, and big data technologies.
+</p>
+</div>
 
 ---
 
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbirLassoued&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirLassoued&layout=compact&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbirLassoued&theme=radical&hide_border=false" height="200" alt="Streak stats" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&theme=radical&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AbirLassoued/PsyBot" target="_blank">
-    <img src="https://img.shields.io/badge/PsyBot-%23E80675?style=for-the-badge&logo=github&logoColor=white" alt="PsyBot Project" />
+### 💻 My Tech Skills
+<br>
+<div align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python logo" />
   </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=R&logo=r&label=&color=276DC3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="R logo" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Java logo" />
+  </a>
+  <a href="https://www.scala-lang.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Scala&logo=scala&label=&color=DC322F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scala logo" />
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hadoop&logo=apachehadoop&label=&color=66CCFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hadoop logo" />
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spark&logo=apachespark&label=&color=E25A1C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Spark logo" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MySQL logo" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MongoDB logo" />
+  </a>
+  <a href="https://cassandra.apache.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Cassandra&logo=apachecassandra&label=&color=1287BD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Cassandra logo" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Docker logo" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&label=&color=F37626&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Jupyter logo" />
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Colab&logo=googlecolab&label=&color=F9AB00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Colab logo" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Matplotlib logo" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Seaborn&logo=seaborn&label=&color=03A8D3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Seaborn logo" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Power%20BI&logo=powerbi&label=&color=F2C811&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Power BI logo" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Tableau&logo=tableau&label=&color=E97627&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tableau logo" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scikit-learn logo" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TensorFlow logo" />
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=D00000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Keras logo" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats & Achievements
+<br>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbirLassoued&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbirLassoued&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=AbirLassoued&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="Streak stats" />
+</div>
+
+---
+### 🏆 GitHub Trophies
+<br>
+<div align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=dracula" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=AbirLassoued&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+
+### 📈 Notable Projects
+<br>
+<p align="center">
   <a href="https://github.com/AbirLassoued/PRODIGY_DS_01" target="_blank">
-    <img src="https://img.shields.io/badge/Customer%20Personality%20Analysis-%2324292F?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=Customer%20Personality%20Analysis&logo=github&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" alt="Customer Personality Analysis" />
+  </a>
+  <a href="https://github.com/AbirLassoued/PRODIGY_DS_03" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Decision%20Tree%20Classifier&logo=github&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" alt="Decision Tree Classifier" />
   </a>
   <a href="https://github.com/AbirLassoued/PRODIGY_DS_04" target="_blank">
-    <img src="https://img.shields.io/badge/Sentiment%20Analysis-%2324292F?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=Sentiment%20Analysis&logo=github&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" alt="Sentiment Analysis" />
   </a>
 </p>
 
 ---
 
-### 💡 Interests
+### 🌟 What I'm Passionate About
+<br>
+<p align="left">
+  I’m actively exploring innovative projects and technologies. Whether it's diving into data analysis or uncovering insights, I'm always excited to push the boundaries and learn more. 🚀 Stay tuned for updates on my latest ventures and discoveries!
+</p>
 
-- AI Research & Applied Machine Learning  
-- RAG & LLM-based Chatbots  
-- Data Engineering & Visualization  
-- Intelligent Systems & Automation  
 
 ---
 
 ### 📫 Contact Me
+<br>
+<p align="left">🚀 I'm open to exciting collaborations and new opportunities! If you're interested in working together or just want to connect, feel free to reach out through any of the platforms below:</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lassoued-abir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:arilassoued7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/lassoued_abir" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/abir.lassoued_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lassoued-abir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:arilassoued7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/abir.lassoued_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <a href="https://x.com/lassoued_abir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
+  </a>
+</div>
+<br>
 
-<p align="center">
-  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-%23E80675?style=for-the-badge"/></a>
-</p>
+<!-- Bouton "Back to Top" -->
+<br>
+<div align="right">
+  <a href="#top" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Scroll%20Up-%23E80675?style=for-the-badge&logo=" alt="Scroll Up"/>
+  </a>
+</div>
 
 ---
-
+<br>
 <p align="center">
+  <!-- Carte citation dynamique avec couleur et taille personnalisée -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800&animation=true">
 </p>
 
-<p align="center">
-  <img src="https://github.com/AbirLassoued/AbirLassoued/blob/output/github-snake-dark.svg" alt="snake animation" />
-</p>
+
+
+![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-snake-dark.svg)
+" 
