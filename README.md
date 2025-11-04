@@ -28,64 +28,50 @@
 ### 💻 My Tech Skills
 <br>
 <div align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python logo" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=R&logo=r&label=&color=276DC3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="R logo" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Java logo" />
-  </a>
-  <a href="https://www.scala-lang.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Scala&logo=scala&label=&color=DC322F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scala logo" />
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Hadoop&logo=apachehadoop&label=&color=66CCFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hadoop logo" />
-  </a>
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spark&logo=apachespark&label=&color=E25A1C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Spark logo" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MySQL logo" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MongoDB logo" />
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Cassandra&logo=apachecassandra&label=&color=1287BD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Cassandra logo" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Docker logo" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&label=&color=F37626&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Jupyter logo" />
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Google%20Colab&logo=googlecolab&label=&color=F9AB00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Colab logo" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Matplotlib logo" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Seaborn&logo=seaborn&label=&color=03A8D3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Seaborn logo" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Power%20BI&logo=powerbi&label=&color=F2C811&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Power BI logo" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tableau&logo=tableau&label=&color=E97627&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tableau logo" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scikit-learn logo" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TensorFlow logo" />
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=D00000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Keras logo" />
-  </a>
+  <!-- Core Programming -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=306998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python" /></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=R&logo=r&label=&color=276DC3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="R" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Java" /></a>
+  <a href="https://www.scala-lang.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Scala&logo=scala&label=&color=DC322F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scala" /></a>
+
+  <!-- AI, ML, DL -->
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Scikit-learn" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TensorFlow" /></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=D00000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Keras" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="PyTorch" /></a>
+
+  <!-- NLP & LLMs -->
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/static/v1?message=Hugging%20Face&logo=huggingface&label=&color=FFD21E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hugging Face" /></a>
+  <a href="https://ollama.ai/" target="_blank"><img src="https://img.shields.io/static/v1?message=Ollama&logo=ollama&label=&color=3B82F6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Ollama" /></a>
+  <a href="https://cohere.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Cohere&logo=cohere&label=&color=7F56D9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Cohere" /></a>
+  <a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/static/v1?message=Qdrant&logo=qdrant&label=&color=FF6B6B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Qdrant" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=LangChain&logo=chainlink&label=&color=00BFA6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LangChain" /></a>
+  <a href="https://python.langchain.com/docs/use_cases/question_answering/" target="_blank"><img src="https://img.shields.io/static/v1?message=RAG&logo=opensearch&label=&color=009688&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="RAG" /></a>
+  <a href="https://github.com/microsoft/semantic-kernel" target="_blank"><img src="https://img.shields.io/static/v1?message=AI%20Agents&logo=azurefunctions&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="AI Agents" /></a>
+
+  <!-- Data & Big Data -->
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Hadoop&logo=apachehadoop&label=&color=66CCFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hadoop" /></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Spark&logo=apachespark&label=&color=E25A1C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Spark" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MongoDB" /></a>
+  <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Cassandra&logo=apachecassandra&label=&color=1287BD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Cassandra" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=336791&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="PostgreSQL" /></a>
+  <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/static/v1?message=Elasticsearch&logo=elasticsearch&label=&color=005571&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Elasticsearch" /></a>
+
+  <!-- Visualization -->
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=003B57&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Matplotlib" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Seaborn&logo=seaborn&label=&color=03A8D3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Seaborn" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Power%20BI&logo=powerbi&label=&color=F2C811&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Power BI" /></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Tableau&logo=tableau&label=&color=E97627&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tableau" /></a>
+
+  <!-- Tools & Environments -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Docker" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&label=&color=F37626&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Jupyter" /></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Google%20Colab&logo=googlecolab&label=&color=F9AB00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Colab" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" /></a>
 </div>
+
 
 ---
 
